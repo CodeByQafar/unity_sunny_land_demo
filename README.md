@@ -8,9 +8,17 @@ It’s purely a hobby project, and I’ve included a short gameplay recording be
 
 # GamePLay 
 
-[Gameplay Demo Gif](Recordings/demo-gameplay-1.gif)
-[Gameplay Demo Gif](Recordings/demo-gameplay-2.gif)
-[Gameplay Demo Gif](Recordings/demo-gameplay-3.gif)
+<table>
+  <tr>
+    <td><img src="Recordings/demo-gameplay-1.gif" alt="Demo 1" width="450" /></td>
+    <td><img src="Recordings/demo-gameplay-2.gif" alt="Demo 2" width="450" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="Recordings/demo-gameplay-3.gif" alt="Demo 3" width="450" />
+    </td>
+  </tr>
+</table>
 
 # Video
 [Gameplay Demo Video](Recordings/demo-gameplay.gif)
