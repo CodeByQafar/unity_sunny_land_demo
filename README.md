@@ -21,4 +21,4 @@ It’s purely a hobby project, and I’ve included a short gameplay recording be
 </table>
 
 # Video
-[Gameplay Demo Video](Recordings/demo-gameplay.gif)
+[Gameplay Demo Video](Recordings/demo-gameplay.mp4)
