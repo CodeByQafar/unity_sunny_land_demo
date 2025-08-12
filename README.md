@@ -1,2 +1,16 @@
-# unity_sunny_land_demo
-A simple Unity demo game made using the Sunny Land asset
+# Unity Sunny Land Demo
+
+A simple Unity demo game created using the Sunny Land asset.
+
+This project was developed as a hobby to experiment with some technologies in Unity. I built it using the Sunny Land assets during the summer of 2024, but I’m only sharing it now.
+
+It’s purely a hobby project, and I’ve included a short gameplay recording below as a demo.
+
+# GamePLay 
+
+[Gameplay Demo Gif](Recordings/demo-gameplay-1.gif)
+[Gameplay Demo Gif](Recordings/demo-gameplay-2.gif)
+[Gameplay Demo Gif](Recordings/demo-gameplay-3.gif)
+
+# Video
+[Gameplay Demo Video](Recordings/demo-gameplay.gif)
