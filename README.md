@@ -10,12 +10,12 @@ It’s purely a hobby project, and I’ve included a short gameplay recording be
 
 <table>
   <tr>
-    <td><img src="Recordings/demo-gameplay-1.gif" alt="Demo 1" height="200" /></td>
-    <td><img src="Recordings/demo-gameplay-2.gif" alt="Demo 2" height="200" /></td>
+    <td><img src="Recordings/demo-gameplay-1.gif" alt="Demo 1" height="150" /></td>
+    <td><img src="Recordings/demo-gameplay-2.gif" alt="Demo 2" height="150" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="Recordings/demo-gameplay-3.gif" alt="Demo 3" height="200" />
+      <img src="Recordings/demo-gameplay-3.gif" alt="Demo 3" height="150" />
     </td>
   </tr>
 </table>
