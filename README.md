@@ -22,3 +22,10 @@ It’s purely a hobby project, and I’ve included a short gameplay recording be
 
 # Video
 [Gameplay Demo Video](Recordings/demo-gameplay.mp4)
+
+
+
+## Installation
+
+`git clone https://github.com/CodeByQafar/unity_sunny_land_demo.git`
+
